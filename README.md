@@ -1,7 +1,7 @@
 ### printf("Hey There");
 <h3 align="center">Nothing much i just like robots</h3>
 
-![coding](https://user-images.githubusercontent.com/124627023/231411398-18a67542-cc1b-4b99-a650-70ff5b8fef0b.gif)
+<h3 align="center">![coding](https://user-images.githubusercontent.com/124627023/231411398-18a67542-cc1b-4b99-a650-70ff5b8fef0b.gif)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
