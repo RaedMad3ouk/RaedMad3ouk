@@ -1,9 +1,5 @@
 ### printf("Hey There");
-<h3 align="center">Nothing much i just like robots 🤖</h3>
-
-- 🔭 I’m currently working on **c**
-
-- 🌱 I’m currently learning **c language**
+<h3 align="center">Nothing much i just like robots Robot sur Twitter Emoji Stickers 13.1</h3>
 
 ![coding](https://user-images.githubusercontent.com/124627023/231411398-18a67542-cc1b-4b99-a650-70ff5b8fef0b.gif)
 
